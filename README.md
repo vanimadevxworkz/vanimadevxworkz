@@ -1,15 +1,17 @@
 <h1 align="center">Hi 👋, I'm Vanishri</h1>
 <h3 align="center">A passionate full stack java developer from India</h3>
 
-   <image align=right alt="coding" width="400" src="https://media.licdn.com/dms/image/D4D12AQH4mcQALwgZ7Q/article-cover_image-shrink_600_2000/0/1691989932071?e=2147483647&v=beta&t=uwm5lxFiqURXuzG_xnf9hrIr-_sojSaQ4ggruUAYsmU">
-        
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vanimadevxworkz&label=Profile%20views&color=0e75b6&style=flat" alt="vanimadevxworkz" /> </p>
 
-- 🌱 I’m currently learning **Javascript,jdbc**
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vanimadevxworkz" alt="vanimadevxworkz" /></a> </p>
+
+- 🌱 I’m currently learning **Java Enterprise Application Development course**
 
 - 💬 Ask me about **Java,Css,Html,Mysql,Javascript**
 
 - 📫 How to reach me **vanimadevxworkz@gmail.com**
+
+- 📄 My resume [Vanishri-resume.pdf](Vanishri-resume.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
